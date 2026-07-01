@@ -1,24 +1,24 @@
 {
   "esso_version": "1.0.0",
   "fingerprint": "54274058-c8bf-485b-a71e-d7bdee8b3b0f",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "caysdlib",
   "publisher": "Ethernos Studio",
   "repository": "https://github.com/cavvy-lang/caysdlib",
-  "commit_hash": "a7ea8dcc48de6649f8101b64efa4403c6e04239d",
-  "package_sha256": "ced1e7182690910be5a18c30f3d96f3cb3719004980ac9ee50cfff43f9ca4979",
-  "certified_at": "2026-06-29T13:12:30Z",
-  "expires_at": "2031-06-29T13:12:30Z",
+  "commit_hash": "5e439bc09c932d37fa441091987dd8857a3994d0",
+  "package_sha256": "70f54140946de33eea3e664e103e069a50bab873e498b81875f1c5bb5c71171e",
+  "certified_at": "2026-07-01T12:58:45Z",
+  "expires_at": "2031-07-01T12:58:45Z",
   "signatures": {
     "publisher": {
       "key_id": "7a1a00b49d394f65d0a7f6031a1b2692",
       "algorithm": "Ed25519",
-      "signature": "9eBxjlvd6mS2xutnI1Y5o2JzRRgHVBxQ/LBeds814gzumo6Ytj2J51LUR7D6Ht89ZdgVI2nxf8p91+xC/FfJBQ=="
+      "signature": "+AVIpWIMhnzRSnev2pPZXZfnWHuxQFPBK/3eSgn4Ny7korDi0ujQUSKC1dge2DeUz3Mu9Z5kMItGLNY+J8DrBQ=="
     },
     "authority": {
       "key_id": "a3d59261417db6d1b8c3398465274d5e",
       "algorithm": "Ed25519",
-      "signature": "NsriHQWLDERowOLqt5p7c8ao+123MHJLI01IlXmnqQXAclNNNwJFL8RUhPR6mBNvMuRXeRLNUuwolsbwAOYdDA=="
+      "signature": "/sr4x/W3YJkDfexj0SEuQWfp+Uk48zE+UNNvelXGEsA1csXGshv2NZJyODzWT0WV/454L914sg4XTm0Z9DooDQ=="
     }
   }
 }

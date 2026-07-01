@@ -4,7 +4,7 @@
   "current_name": "caysdlib",
   "current_publisher": "Ethernos Studio",
   "current_repository": "https://github.com/cavvy-lang/caysdlib",
-  "created_at": "2026-06-29T13:12:30Z",
+  "created_at": "2026-07-01T12:56:51Z",
   "history": {
     "names": [],
     "publishers": [],
@@ -15,7 +15,7 @@
       "key_id": "7a1a00b49d394f65d0a7f6031a1b2692",
       "algorithm": "Ed25519",
       "public_key": "RTfAQ4kW+D+2LpOQlrglBE0ZsPjIhLlR1+cAymRbx2U=",
-      "activated_at": "2026-06-29T13:12:30Z",
+      "activated_at": "2026-07-01T12:56:51Z",
       "status": "active"
     }
   ]
