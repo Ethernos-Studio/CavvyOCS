@@ -1,24 +1,24 @@
 {
   "esso_version": "1.0.0",
   "fingerprint": "53c4e36e-25f8-5e98-b204-27ecdc978639",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "caygtk",
   "publisher": "Ethernos Studio",
   "repository": "https://github.com/cavvy-lang/caygtk",
-  "commit_hash": "d48376b8c0f49985f82bd0f158d0788d9c32e4fe",
-  "package_sha256": "59b1c4b443d9becf544f0b2dc7c32b6458028458efe40839c080a0e5271da3e1",
-  "certified_at": "2026-07-15T06:24:18Z",
-  "expires_at": "2031-07-15T06:24:18Z",
+  "commit_hash": "454e70d9e79ed932694e1673284dcf182a2eaa0a",
+  "package_sha256": "d017d22ce5c9d8d7012165df2886e580c5615eb7a68c29c31e5b80328beb3950",
+  "certified_at": "2026-07-15T07:31:31Z",
+  "expires_at": "2031-07-15T07:31:31Z",
   "signatures": {
     "publisher": {
       "key_id": "7a1a00b49d394f65d0a7f6031a1b2692",
       "algorithm": "Ed25519",
-      "signature": "IEDiSn/yZ79SpyoWjbUlbjI4gisdHWF9kfTZo21qSNdXUBhnEGY7pAioillQiIHfor7k4+MobXaUHs04uEhBAw=="
+      "signature": "ty858Q7f5vunHzQE89zMBlOKcilVQ+Db5kTd76nBZM+i82Cp/5U+0y0GNZMAYQkC/mtmh26M+YsjI9+463TbCA=="
     },
     "authority": {
       "key_id": "a3d59261417db6d1b8c3398465274d5e",
       "algorithm": "Ed25519",
-      "signature": "8V4CLyzuZaCyl+9yoT9IF6gpWO8RhU/JcYymAAvSFvXFv4wEKLLDO1nF5OqYvx8Jx90FPONi/C2oS/026ZEVDA=="
+      "signature": "1P5ADTyBoS+MEun7yLzq7zDpsVuEaG8UgiTeGxkNSScUzZUZj8WoBpAlVF2Y00M9LppWkHp08R04DY6+E7wkAA=="
     }
   }
 }
